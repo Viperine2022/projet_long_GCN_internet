@@ -1,7 +1,7 @@
 #/bin/bash
 
 # Robustesse : on supprime le fichier qui va être recrée
-echo "date,number_AS,number_p2p_links,number_p2c_links" > number_AS_p2p_c2p_over_time.txt
+echo "timestamp,number_AS,number_p2p_links,number_p2c_links" > number_AS_p2p_c2p_over_time.txt
 
 array=$(ls | grep "^[0-9][0-9]*")
 for line in $array

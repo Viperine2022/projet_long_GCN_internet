@@ -1,0 +1,5 @@
+1, chien
+6, souris
+10, chat
+16, lapin
+19, rat

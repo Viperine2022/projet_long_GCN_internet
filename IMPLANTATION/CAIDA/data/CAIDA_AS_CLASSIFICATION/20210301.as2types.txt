@@ -1,9 +1,4 @@
-# date: 20210301
-# exe: type-convert-amogh.pl
-# files: 20210301.merged.class.txt
-# format: as|source|type
-# name: as2type
-# types: Content|Enterprise|Transit/Access
+ASN|source_label|label
 1|CAIDA_class|Transit/Access
 2|CAIDA_class|Transit/Access
 3|CAIDA_class|Transit/Access
@@ -31730,6 +31725,7 @@
 50381|CAIDA_class|Transit/Access
 50382|CAIDA_class|Transit/Access
 50383|CAIDA_class|Transit/Access
+50384|CAIDA_class|Transit/Access
 50385|CAIDA_class|Enterprise
 50386|CAIDA_class|Transit/Access
 50389|CAIDA_class|Transit/Access
@@ -35858,6 +35854,7 @@
 55813|CAIDA_class|Transit/Access
 55814|peerDB_class|Transit/Access
 55816|CAIDA_class|Enterprise
+55818|CAIDA_class|Transit/Access
 55819|peerDB_class|Content
 55821|peerDB_class|Transit/Access
 55822|CAIDA_class|Transit/Access
@@ -37033,6 +37030,7 @@
 57459|CAIDA_class|Enterprise
 57460|CAIDA_class|Transit/Access
 57461|CAIDA_class|Transit/Access
+57463|CAIDA_class|Transit/Access
 57464|CAIDA_class|Transit/Access
 57466|CAIDA_class|Transit/Access
 57468|peerDB_class|Transit/Access

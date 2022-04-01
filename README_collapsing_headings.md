@@ -1,16 +1,25 @@
 ## Tutorial to have collapsing heading sections
 
-<img src="./images_collapsing_headings/collapsed.png" alt="collapsed" style="zoom:60%;" />
-
-<center><u>Collapsed headings</u></center>
 
 
+<p align="center">
+  <img width="400" height="300" src="./images_collapsing_headings/collapsed.png" alt="collapsed"/>  
+</p>
 
+<p align="center">
+  <ins>Collapsed headings</ins>
+</p>
 
+<br>
+<br>
 
-<img src="./images_collapsing_headings/expanded.png" alt="collapsed" style="zoom:40%;" />
+<p align="center">
+  <img width="500" height="375" src="./images_collapsing_headings/expanded.png" alt="collapsed" style="zoom:40%;"/>
+</p>
 
-<center><u>Expanded headings</u></center>
+<p align="center">
+  <ins>Expanded headings</ins>
+</p>
 
 
 
